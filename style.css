@@ -1,0 +1,40 @@
+.swiper {
+    width: 1000px;
+    height: 600px;
+  }
+  
+
+img{
+    width: 100%
+    
+    
+}
+
+/* h1{
+    margin-left: 300px;
+} */
+
+.swiperi{
+    font-size: 40px;
+}
+.kartinka{
+    height: 260px;
+    
+}
+
+.swiper-button-prev{
+    /* position: absolute;
+    top: 50%; */
+    margin-top: 80px;
+    bottom: 20px;
+    
+}
+
+.swiper-button-next{
+    margin-top: 80px;
+    bottom: 20px;
+    
+}
+/* p{ */
+    /* font-size: 20px; */
+/* } 
